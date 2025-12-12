@@ -1,0 +1,9 @@
+{"version": 2, "width": 81, "height": 21, "timestamp": 1765536574, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.020947, "o", "\u001b[?2004h\u001b]0;yakuhito@fury-catstation: ~/projects/ab-pipeline\u0007\u001b[01;32myakuhito@fury-catstation\u001b[00m:\u001b[01;34m~/projects/ab-pipeline\u001b[00m$ "]
+[0.61576, "o", "\u001b[7m./step3.sh\u001b[27m"]
+[1.087385, "o", "\b\b\b\b\b\b\b\b\b\b./step3.sh\r\n\u001b[?2004l\r"]
+[1.121222, "o", "Proteins matching criteria:  653\r\n"]
+[1.145966, "o", "Loaded 2511 proteins from non-homologous.fasta.\r\nLoaded 653 ids from location.tab.\r\n"]
+[1.156834, "o", "Written 653 proteins to localized.fasta.\r\n"]
+[1.160795, "o", "\u001b[?2004h\u001b]0;yakuhito@fury-catstation: ~/projects/ab-pipeline\u0007\u001b[01;32myakuhito@fury-catstation\u001b[00m:\u001b[01;34m~/projects/ab-pipeline\u001b[00m$ "]
+[2.235004, "o", "\u001b[?2004l\r\r\nexit\r\n"]
