@@ -6,6 +6,8 @@ Made as part of my undergraduate Capstone (thesis) project.
 
 ## Links
 
+_Note_: When browsing this repository, keep in mind that the final deliverable number steps from 1 (e.g., data gathering is step 1 instead of 0).
+
 [Step 0](https://asciinema.org/a/1k2quMp6JY2CxSxq5mFhx0ok4)
 
 [Step 1](https://asciinema.org/a/YIvbohHCjX6O1cuNgaTMIht2k)
